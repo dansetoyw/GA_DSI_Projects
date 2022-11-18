@@ -55,3 +55,9 @@ With this, we would like to recommend the following:
 |Total Basement Area | 994 sq. ft.  |
 
 - Channel additional budget for marketing on these core features to attract buyers once the properties built are ready for sale.
+
+### Kaggle Submission
+
+Private score: RMSE = 24752
+
+Public score : RMSE = 30070
