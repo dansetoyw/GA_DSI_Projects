@@ -24,3 +24,21 @@ Previous housing developments were not returning favourable profits due to the r
 Facing a forecasted recession in the upcoming year, Real Sky senior management team has reached out to our data science team to pinpoint factors that will direct towards revamping the company's focus structure to improve the attractiveness and sales price of new housing developments.
 
 What core features should we focus on to increase the sale price of homes for our next development project?
+
+
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP on Subreddit (CatAdvice & DogAdvice)
+
+### Problem Statement
+
+An influx of inexperienced pets owners overly reliant on vets and pet store reduces work efficiency, how can we optimize it?
+
+Our flagship product (Pet Companions), our highly-rated mobile application offering pet owners information through:
+- AI-powered chatbot 
+ - First level of customer inquiry
+ - Source of information for pet owners
+- Recommends articles based on classification of queries
+- A knowledge-bank filled with information sourced from vets, pet experts and users
+
+However, our chatbot requires an update to increase its effectiveness in order to meet higher demand.
+
+Using web apis and NLP to create an improved classifier model to better classify posts to cats and dogs and recommend information to pet owners accordingly.
