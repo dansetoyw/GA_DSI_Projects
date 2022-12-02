@@ -13,7 +13,7 @@ Our flagship product (Pet Companions), our highly-rated mobile application offer
 
 However, our chatbot requires an update to increase its effectiveness in order to meet higher demand.
 
-Using web apis and NLP to create an improved classifier model to better classify posts to cats and dogs and recommend information to pet owners accordingly.
+We aim to use web apis and NLP to create an improved classifier model to better classify posts under cats and dogs and recommend information to pet owners accordingly.
 
 ### Datasets
 
